@@ -4,6 +4,11 @@ export default {
       name: 'Dashboard',
       url: '/dashboard',
       icon: 'icon-speedometer'
+    },
+    {
+      name: 'Customers',
+      url: '/customers',
+      icon: 'icon-user'
     }
   ]
 }
